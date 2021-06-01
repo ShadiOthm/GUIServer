@@ -1,0 +1,30 @@
+Time:20200414_160516   Requested File: WebRoot\Query.htm
+Time:20200415_230701   Requested File: WebRoot\Query.htm
+Time:20200415_230701   Error. Can't find file.  Showed WebRoot\Util\Error404.htm instead
+Time:20200415_231328   Requested File: WebRoot\testpage.htm
+Time:20200416_000244   Requested File: WebRoot\Query.htm
+Time:20200420_225621   Requested File: WebRoot\Subdir/\default.htm
+Time:20200420_225631   Requested File: WebRoot\Subfolder/\default.htm
+Time:20200420_225631   Error. Can't find file.  Showed WebRoot\Util\Error404.htm instead
+Time:20200420_225637   Requested File: WebRoot\Query.htm
+Time:20200420_231640   Requested File: WebRoot\Query.htm
+Time:20200421_003354   Requested File: WebRoot\Query.htm
+Time:20200421_003710   Requested File: WebRoot\Query.htm
+Time:20200421_004031   Requested File: WebRoot\testpage.htm
+Time:20200421_004031   Requested File: WebRoot\favicon.ico\default.htm
+Time:20200421_004031   Error. Can't find file.  Showed WebRoot\Util\Error404.htm instead
+Time:20200421_004046   Requested File: WebRoot\Query.htm
+Time:20200421_004046   Requested File: WebRoot\favicon.ico\default.htm
+Time:20200421_004046   Error. Can't find file.  Showed WebRoot\Util\Error404.htm instead
+Time:20200421_134243   Requested File: WebRoot\testpage.htm
+Time:20200421_134243   Requested File: WebRoot\favicon.ico\default.htm
+Time:20200421_134243   Error. Can't find file.  Showed WebRoot\Util\Error404.htm instead
+Time:20200421_134303   Requested File: WebRoot\default.htm
+Time:20200421_134304   Requested File: WebRoot\favicon.ico\default.htm
+Time:20200421_134304   Error. Can't find file.  Showed WebRoot\Util\Error404.htm instead
+Time:20200421_134325   Requested File: WebRoot\default.htm
+Time:20200421_134340   Requested File: WebRoot\subdir\default.htm
+Time:20200421_134400   Requested File: WebRoot\Query.htm
+Time:20200421_134609   Requested File: WebRoot\subdir\default.htm
+Time:20200421_134609   Requested File: WebRoot\favicon.ico\default.htm
+Time:20200421_134609   Error. Can't find file.  Showed WebRoot\Util\Error404.htm instead
